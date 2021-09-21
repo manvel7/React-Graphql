@@ -1,0 +1,96 @@
+.react-datepicker-popper {
+    margin-top: 0 !important;
+}
+
+.default-deatepicker-calendar-classname {
+    border: none;
+    border-radius: .5rem;
+    box-shadow: 0 2.4rem 6rem rgba(33, 9, 9, 0.16);
+    background-color: #FDFDFD;
+    // padding: 1.8rem .4rem 2.2rem .4rem;
+    display: flex;
+    margin-top: 1rem;
+}
+
+.InputClassName {
+    color: red;
+}
+
+.react-datepicker__month-container {
+    // margin: 0 1.2rem;
+    padding: 1.8rem 1rem 2.2rem 1rem;
+    border-right: 1px solid rgba(43, 83, 216, 0.08);
+}
+
+.react-datepicker__header {
+    background-color: #FDFDFD;
+    border-bottom: none;
+    padding: 0;
+}
+
+.react-datepicker__current-month {
+    color: #222222;
+    font-size: 1.4rem;
+    font-family: 'SF Pro Text Regular';
+    font-weight: 500;
+    margin: 0;
+    margin-bottom: 3.4rem;
+}
+
+.react-datepicker__day-name {
+    width: 4rem;
+    color: #5A5A5A;
+    font-size: 1.2rem;
+    font-family: 'SF Pro Text Regular';
+    margin: 0;
+    margin-bottom: .8rem;
+}
+
+
+.DayClassName {
+    width: 4rem;
+    height: 4rem;
+    outline: none;
+    border-radius: 50%;
+    font-size: 1.4rem;
+    font-family: 'SF Pro Text Regular';
+    color: #4c5573;
+    margin: 0;
+    line-height: 4rem;
+
+    &:hover {
+        background-color: rgba(34, 95, 188, 0.08);
+        border-radius: 50%;
+    }
+}
+
+.react-datepicker__day--selected {
+    color: #FDFDFD;
+    background-color: #225FBC;
+
+    &:hover {
+        color: #FDFDFD;
+        background-color: #225FBC;    
+    }
+} 
+
+.react-datepicker__day--disabled {
+    opacity: .3;
+}
+
+.react-datepicker__navigation--previous {
+    background: url('../../../environment/theme/icons/EpArrowLeft.svg') no-repeat;
+    width: 3rem;
+    height: 3rem;
+    border: none;
+    background-size: contain;
+}
+
+.react-datepicker__navigation--next {
+    background: url('../../../environment/theme/icons/EpArrowRight.svg') no-repeat;
+    width: 3rem;
+    height: 3rem;
+    border: none;
+    background-size: contain;
+}
+

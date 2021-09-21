@@ -1,0 +1,1 @@
+export { CommitteeInformation } from './CommitteeInformation';

@@ -1,0 +1,1 @@
+export { CommitteeOverview } from './CommitteeOverview';

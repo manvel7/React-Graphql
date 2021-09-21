@@ -1,0 +1,1 @@
+export { PageTitlePanel } from './PageTitlePanel';

@@ -1,0 +1,1 @@
+export { MemberCardWithPopover } from './MemberCardWithPopover';

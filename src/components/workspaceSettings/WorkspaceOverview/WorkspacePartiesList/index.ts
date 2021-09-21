@@ -1,0 +1,1 @@
+export { WorkspacePartiesList } from './WorkspacePartiesList';

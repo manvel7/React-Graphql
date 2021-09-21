@@ -1,0 +1,1 @@
+export { WorkspaceNavbar } from './WorkspaceNavbar';

@@ -1,0 +1,1 @@
+export { CommitteeSettingsStructure } from './CommitteeSettingsStructure';

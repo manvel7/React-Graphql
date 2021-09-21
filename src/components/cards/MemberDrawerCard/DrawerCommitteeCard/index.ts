@@ -1,0 +1,1 @@
+export { DrawerCommitteeCard } from './DrawerCommitteeCard';

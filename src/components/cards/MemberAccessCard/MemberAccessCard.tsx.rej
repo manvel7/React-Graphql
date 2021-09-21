@@ -1,0 +1,4 @@
+diff a/packages/admin/src/components/cards/MemberAccessCard/MemberAccessCard.tsx b/packages/admin/src/components/cards/MemberAccessCard/MemberAccessCard.tsx	(rejected hunks)
+@@ -13 +13 @@ import {
+-import { permissionsList } from '../../../consts'; 
++import { permissionsList } from '../../../consts';

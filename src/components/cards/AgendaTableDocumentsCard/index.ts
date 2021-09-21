@@ -1,0 +1,1 @@
+export { AgendaTableDocumentsCard } from './AgendaTableDocumentsCard';

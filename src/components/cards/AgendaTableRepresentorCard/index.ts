@@ -1,0 +1,1 @@
+export { AgendaTableRepresentorCard } from './AgendaTableRepresentorCard';

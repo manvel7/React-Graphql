@@ -1,0 +1,1 @@
+export { FolderDefaultCard } from './FolderDefaultCard';
